@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "session",
+    "baseName": "projetoIcligo",
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1735942111249,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "enableHibernateCache": null,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.8.0",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.joaogomes.icligo",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "rememberMeKey": "373d8ec6e106f9190f7185821ced3545e993a1465517b01ecd8af9ff35d17f433cc7f9210389012171ce9f7b04ab992ab8cc",
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
