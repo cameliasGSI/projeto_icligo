@@ -1,0 +1,29 @@
+{
+  "annotations": {
+    "changelogDate": "20250104003003"
+  },
+  "fields": [
+    {
+      "fieldName": "model",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "brand",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "cyear",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "available",
+      "fieldType": "Boolean"
+    }
+  ],
+  "name": "Car",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
